@@ -1,4 +1,4 @@
-# tanya
+# TanyaVM
 Reverse task for newbies with antidebugging techniques. See [Releases](https://github.com/fuunyaka/tanya/releases) to get compiled program.
 
 ## Описание программы
